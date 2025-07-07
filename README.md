@@ -181,10 +181,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Lucide](https://lucide.dev/) for icons
 - [Pexels](https://www.pexels.com/) for stock photos
 
-## 📞 Support
-
-For support, email support@stockanalyzer.com or join our Slack channel.
-
----
-
-**Built with ❤️ for traders and investors worldwide**
